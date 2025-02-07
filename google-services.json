@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660785678268",
+    "project_id": "minentfy",
+    "storage_bucket": "minentfy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660785678268:android:f011e489abc11974ad8db9",
+        "android_client_info": {
+          "package_name": "io.heckel.ntfy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Lro0YUNMzZ_dZgXzHavEKWV5QP7AfWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
